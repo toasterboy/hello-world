@@ -1,0 +1,52 @@
+<data>
+    <person>
+        <name>Joe blarney</name>
+        <phone>(312) 655-8787</phone>
+        <notes>This is a note bla bla</notes>
+        <phys_traits>
+            <hair_color>brown</hair_color>
+            <eye_color>blue</eye_color>
+            <height>5' 13''</height>
+        </phys_traits>
+    </person>
+    <person>
+        <name>Jean</name>
+        <phone>  188 73 72 9 82</phone>
+        <notes>This is a note bla bla bla bla</notes>
+        <phys_traits>
+            <hair_color>blonde</hair_color>
+            <eye_color>jazz</eye_color>
+            <height>6'</height>
+        </phys_traits>
+    </person>
+    <person>
+        <name>Jack</name>
+        <phone>7 6 5 7 6 5 765 4</phone>
+        <notes>This i bla bla har har</notes>
+        <phys_traits>
+            <hair_color>black</hair_color>
+            <eye_color>green</eye_color>
+            <height>8'11''</height>
+        </phys_traits>
+    </person>
+    <person>
+        <name>Jill1</name>
+        <phone>7657657654</phone>
+        <notes>This i bla bla har har</notes>
+        <phys_traits>
+            <hair_color>blue</hair_color>
+            <eye_color>green</eye_color>
+            <height>1'7''</height>
+        </phys_traits>
+    </person>
+    <person>
+        <name>oaf boy</name>
+        <phone>7657657654</phone>
+        <notes>This i bla bla har har</notes>
+        <phys_traits>
+            <hair_color>black</hair_color>
+            <eye_color>green</eye_color>
+            <height>5'</height>
+        </phys_traits>
+    </person>
+</data>
